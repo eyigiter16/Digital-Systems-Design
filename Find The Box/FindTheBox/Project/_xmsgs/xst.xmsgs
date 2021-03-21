@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/main</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/main.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/main/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/main.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/lifeCount</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/lifeCount.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/lifeCount/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/lifeCount.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/random</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/random.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/random/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/random.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/showWhere</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/showWhere.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/showWhere/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/showWhere.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sevenSegment</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/sevenSegment.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/sevenSegment.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sevenSegment/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/sevenSegment.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/sevenSegment.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clk_divider</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/clk_divider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/clk_divider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clk_divider/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/clk_divider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/Project/clk_divider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decoder</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/decoder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/decoder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decoder/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/decoder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/decoder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/driver</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/driver.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/driver/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/driver.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/slowerClock</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/slowerClock.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/slowerClock.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/slowerClock/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/slowerClock.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/slowerClock.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="1406" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd</arg>&quot; Line <arg fmt="%d" index="2">52</arg>. No sensitivity list and no wait in the process
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd</arg>&quot; line <arg fmt="%d" index="2">145</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;DCT&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd</arg>&quot; line <arg fmt="%d" index="2">44</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;chooser&gt;, &lt;count&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd</arg>&quot; line <arg fmt="%d" index="2">67</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;DCT&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd</arg>&quot; line <arg fmt="%d" index="2">59</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;DCT&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;clk&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">32</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">genVal</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">life1&lt;3&gt;</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">resultB_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Inst_showWhere</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;resultB_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">resultA_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Inst_showWhere</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;resultB_3&gt; &lt;resultC_3&gt; &lt;resultD_3&gt; &lt;resultE_3&gt; &lt;resultF_3&gt; &lt;resultG_3&gt; &lt;resultH_3&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker8</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker9</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker10</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker11</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker12</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker13</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker14</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker15</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker1</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker2</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker3</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker5</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker6</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker7</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker0</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultA_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">Inst_showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultE_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultB_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultA_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultC_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultD_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultE_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultF_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultG_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultH_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">showWhere</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker8</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker9</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker10</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker11</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker12</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker13</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker14</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker15</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker2</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker3</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker5</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker6</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker7</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker0</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">checker1</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">main</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">resultB_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">showWhere</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;resultB_2&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Origi_sevenSegment/SlowClock/clkCounter_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">resultE_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">main</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

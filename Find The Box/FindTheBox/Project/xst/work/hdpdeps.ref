@@ -1,0 +1,84 @@
+V3 53
+FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/clk_divider.vhd 2019/11/30.08:46:30 P.20131013
+EN work/clk_divider 1575134469 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/clk_divider.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/clk_divider/Behavioral 1575134470 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/clk_divider.vhd \
+      EN work/clk_divider 1575134469
+FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd 2019/11/30.08:46:34 P.20131013
+EN work/lifeCount 1575134475 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/lifeCount/Behavioral 1575134476 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/lifeCount.vhd \
+      EN work/lifeCount 1575134475 CP clk_divider
+FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd 2019/11/30.08:46:44 P.20131013
+EN work/main 1575134479 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/main/Behavioral 1575134480 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/main.vhd EN work/main 1575134479 \
+      CP random CP clk_divider CP showWhere CP lifeCount CP sevenSegment
+FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd 2019/11/30.08:46:54 P.20131013
+EN work/random 1575134471 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/random/Behavioral 1575134472 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/random.vhd EN work/random 1575134471
+FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd 2019/11/30.08:46:54 P.20131013
+EN work/showWhere 1575134473 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/showWhere/Behavioral 1575134474 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/Project/showWhere.vhd \
+      EN work/showWhere 1575134473 CP clk_divider
+FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/decoder.vhd 2019/11/30.08:46:56 P.20131013
+EN work/decoder 1575134467 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/decoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/decoder/Behavioral 1575134468 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/decoder.vhd \
+      EN work/decoder 1575134467
+FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd 2019/11/30.08:46:56 P.20131013
+EN work/driver 1575134465 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181 PB ieee/std_logic_arith 1381692177
+AR work/driver/Behavioral 1575134466 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/driver.vhd \
+      EN work/driver 1575134465
+FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/sevenSegment.vhd 2019/11/30.08:46:56 P.20131013
+EN work/sevenSegment 1575134477 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/sevenSegment.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sevenSegment/Behavioral 1575134478 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/sevenSegment.vhd \
+      EN work/sevenSegment 1575134477 CP work/slowerClock CP work/driver \
+      CP work/decoder
+FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/slowerClock.vhd 2019/11/30.08:46:58 P.20131013
+EN work/slowerClock 1575134463 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/slowerClock.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/slowerClock/Behavioral 1575134464 \
+      FL C:/Users/asus/Desktop/ProjectBitikGibi/seven_segment/slowerClock.vhd \
+      EN work/slowerClock 1575134463
+FL C:/Users/eyigiter16/Desktop/Project/Project/clk_divider.vhd 2019/11/30.17:46:51 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/Project/lifeCount.vhd 2019/11/30.19:07:15 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/Project/main.vhd 2019/11/30.19:04:45 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/Project/random.vhd 2019/11/30.16:34:56 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/Project/showWhere.vhd 2019/11/30.19:06:45 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/seven_segment/decoder.vhd 2019/11/30.10:19:26 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/seven_segment/driver.vhd 2019/11/30.09:12:28 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/seven_segment/sevenSegment.vhd 2019/11/30.09:12:28 P.20131013
+FL C:/Users/eyigiter16/Desktop/Project/seven_segment/slowerClock.vhd 2019/11/30.09:12:28 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/clk_divider.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/lifeCount.vhd 2019/11/30.19:33:10 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/main.vhd 2019/11/30.19:40:54 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/random.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/Project/showWhere.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/decoder.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/driver.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/sevenSegment.vhd 2019/11/30.19:21:01 P.20131013
+FL C:/Users/eyigiter16/Desktop/ProjectDeneme/seven_segment/slowerClock.vhd 2019/11/30.19:21:01 P.20131013
