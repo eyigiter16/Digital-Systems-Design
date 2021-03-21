@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\asus\Desktop\ProjectBitikGibi\Project\main.ncd
+OUTFILE=C:\Users\asus\Desktop\ProjectBitikGibi\Project\main.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5vq100
+WORKINGDIR=C:\Users\asus\Desktop\ProjectBitikGibi\Project
+LICENSE=WebPack
+USER_INFO=211820373_0_0_134

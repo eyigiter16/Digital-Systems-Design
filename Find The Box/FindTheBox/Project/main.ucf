@@ -1,0 +1,45 @@
+NET "SevenSegControl[0]" LOC = P50;
+NET "SevenSegControl[1]" LOC = P49;
+NET "SevenSegControl[2]" LOC = P52;
+NET "SevenSegControl[3]" LOC = P56;
+NET "SevenSegControl[4]" LOC = P59;
+NET "SevenSegControl[5]" LOC = P57;
+NET "SevenSegControl[6]" LOC = P60;
+NET "SevenSegControl[7]" LOC = P61;
+
+NET "SevenSegBus[7]" LOC = P71;
+NET "SevenSegBus[6]" LOC = P62;
+NET "SevenSegBus[5]" LOC = P65;
+NET "SevenSegBus[4]" LOC = P72;
+NET "SevenSegBus[3]" LOC = P73;
+NET "SevenSegBus[2]" LOC = P98;
+NET "SevenSegBus[1]" LOC = P64;
+NET "SevenSegBus[0]" LOC = P70;
+
+NET "clk" LOC = P40;
+
+net "UpDown" loc = P78;
+
+net "chooser" loc = P34;
+
+
+net "Switch[0]" loc = P15;
+net "Switch[1]" loc = P12;
+net "Switch[2]" loc = P5;
+net "Switch[3]" loc = P4;
+net "Switch[4]" loc = P94;
+net "Switch[5]" loc = P90;
+net "Switch[6]" loc = P88;
+net "Switch[7]" loc = P85;
+
+
+
+net "Show" loc = P35;
+
+
+net "life[0]" loc = P16;
+net "life[1]" loc = P13;
+net "life[2]" loc = P6;
+
+NET "Show" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "chooser" CLOCK_DEDICATED_ROUTE = FALSE;
